@@ -23,7 +23,7 @@ The project is currently in active development. Below is the roadmap and current
 * Currently performing exploratory data analysis (EDA) using Pandas and Jupyter Notebooks to understand the metadata structure and missing values.
 
 
-* [ ] **Phase 3: Vectorization & Semantic Search (Planned)**
+* [x] **Phase 3: Vectorization & Semantic Search (Planned)**
 * Implement LangChain for text chunking.
 * Generate high-dimensional embeddings and construct a local Vector Database.
 
